@@ -18,7 +18,7 @@
   "dependencies": {
     "babel": "^4.5.1",
     "gulp-util": "^3.0.4",
-    "ampersand-stylestats": "^5.0.0",
+    "ampersand-stylestats": "^5.0.1",
     "through2": "^0.6.3"
   },
   "devDependencies": {
