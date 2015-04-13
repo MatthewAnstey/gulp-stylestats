@@ -1,14 +1,14 @@
 {
-  "name": "gulp-stylestats",
+  "name": "ampersand-gulp-stylestats",
   "version": "0.5.5",
   "repository": {
     "type": "git",
-    "url": "git://github.com/1000ch/gulp-stylestats.git"
+    "url": "https://github.com/MatthewAnstey/gulp-stylestats.git"
   },
   "bugs": {
-    "url": "https://github.com/1000ch/gulp-stylestats/issues"
+    "url": "https://github.com/MatthewAnstey/gulp-stylestats/issues"
   },
-  "description": "Gulp task for StyleStats",
+  "description": "Ampersand Gulp task for StyleStats",
   "main": "index.js",
   "scripts": {
     "build": "babel src/index.js > index.js",
@@ -30,13 +30,13 @@
     "css",
     "statistics"
   ],
-  "author": {
-    "name": "1000ch",
-    "email": "shogo.sensui@gmail.com",
-    "web": "http://github.com/1000ch"
-  },
+  "author": "ma@amp.co",
   "engines": {
     "node": ">=0.10.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/MatthewAnstey/gulp-stylestats",
+  "directories": {
+    "test": "test"
+  }
 }
